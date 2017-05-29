@@ -1,0 +1,99 @@
+.logo{
+  max-height:180px;
+}
+.feature-img{
+  background-image: url(images/main.jpg);
+  background-size:cover;
+  margin-bottom: 70px;
+}
+.nav{
+  text-transform: uppercase;
+}
+a{
+  color: #000;
+  text-decoration: none;
+}
+a:hover{
+  color: #000;
+  text-decoration: underline;
+}
+a:visited{
+  color: #000;
+  text-decoration: none;
+}
+hr{
+  z-index: 100;
+  border:solid black 3px;
+}
+.sp-slash{
+  background-image: url(images/slash.png);
+  background-position: center;
+  background-size: contain;
+  margin:50px 0px;
+}
+.sp-line{
+  background-color: black;
+}
+.img-ocw{
+  border: 3px solid black;
+}
+.container-ft-text{
+  min-height: 500px;
+  padding:50px;
+  position: relative;
+}
+.ft-text{
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+.ft-title-text{
+  color: #fff;
+  font-size: 50px;
+  font-weight: bold;
+}
+.ft-cont-text{
+  color: #000;
+  font-size: 16px;
+  font-weight: bold;
+}
+.ft-fbck{
+  margin: auto;
+  text-align: center;
+}
+.cta-btn{
+  padding: 5px;
+  color: #fff;
+	margin: auto;
+	font-weight: bold;
+	font-size: 16px;
+	width: 250px;
+	background: #000;
+	opacity: 1.00;
+	border-radius: 5px;
+  text-align: center;
+}
+.footer{
+  background-color: #000;
+  font-size: 12px;
+  color: #5c5c5c;
+}
+.footer a{
+  color: #5c5c5c;
+}
+.lft{
+  text-align: left;
+}
+.rgt{
+  text-align: right;
+}
+.ctr{
+  text-align: center;
+}
+.bold-text{
+  font-weight: bold;
+}
+#meeting{
+  border: dashed 1px black;
+  padding:20px;
+}
